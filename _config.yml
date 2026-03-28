@@ -6,8 +6,8 @@ title: Yu-Hsin CHANG # the website title (if blank, full name will be used inste
 first_name: Yu-Hsin
 middle_name:
 last_name: CHANG
-contact_note: > yhchang@must.edu.mo
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: > 
+  yhchang@must.edu.mo
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Composer and music technologist specialising in contemporary classical music and acoustic design.
 footer_text: >
