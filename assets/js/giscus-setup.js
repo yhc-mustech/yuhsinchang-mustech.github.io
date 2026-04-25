@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "yuhsinchang-mustech/yuhsinchang-mustech.github.io",
+    "data-repo": "yhc-mustech/yuhsinchang-mustech.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
